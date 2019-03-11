@@ -1,4 +1,5 @@
 # Created by Ninja Hydra
+import math
 
 print("  _   _ ___ _   _     _   _ ")
 print(" | \ | |_ _| \ | |   | | / \ ")
