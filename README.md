@@ -1,6 +1,6 @@
 # cal
 This is a just a simple calculator made by python language.
-(cal){https://github.com/Sanif007/cal/blob/master/Screenshot_2019-02-25-02-04-19.png}
+![cal](https://github.com/Sanif007/cal/blob/master/Screenshot_2019-02-25-02-04-19.png)
 Just install python language in termux app by typing 
 pkg install python 
 
